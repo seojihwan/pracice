@@ -11,3 +11,6 @@
 [알리](./allie.md)
 [신세한탄](./shinsehantan.md)
 [파피](./fafi.md)
+
+## 담당 코치
+[임동준](https://github.com/imakerjun)
