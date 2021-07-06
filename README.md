@@ -9,3 +9,4 @@
 [에어](./air.md)
 [알리](./allie.md)
 [신세한탄](./shinsehantan.md)
+[파피](./fafi.md)
